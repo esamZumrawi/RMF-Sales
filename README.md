@@ -25,4 +25,4 @@ This project performs a comprehensive RFM (Recency, Frequency, Monetary) analysi
 # Power BI Dashboard
 [View My Dashboard](https://app.powerbi.com/groups/me/reports/24bef6ea-1267-4835-b1d7-004ce92d21af/22d2b212893ba3cb6a43?experience=power-bi
 )
-![Dashboard Preview]("C:\Users\esamz\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 011756.png")
+![Dashboard Preview](C:\Users\esamz\OneDrive\Pictures\Screenshots)
