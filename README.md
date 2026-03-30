@@ -21,3 +21,6 @@ This project performs a comprehensive RFM (Recency, Frequency, Monetary) analysi
 * Identify top-value customers for targeted marketing.
 * Detect at-risk customers for retention campaigns.
 * Support data-driven decision-making in sales and marketing strategies.
+
+# Power BI Dashboard
+https://app.powerbi.com/groups/me/reports/24bef6ea-1267-4835-b1d7-004ce92d21af/22d2b212893ba3cb6a43?experience=power-bi
